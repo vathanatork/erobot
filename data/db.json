@@ -1,0 +1,48 @@
+{
+    "card":[
+        {
+          "id":"1",
+          "logo": "require("../assets/image/logo1.png")",
+          "title": "Software Engineer (Android), Libraries",
+          "postInfo":[
+            {"icon": "require("../assets/image/logo1.png")","text": "segment"},
+            {"icon": "require("../assets/image/logo1.png")","text": "time"},
+            {"icon": "require("../assets/image/logo1.png")","text": "salary"}
+          ],
+          "button":["fulltime","Private","urgent"]
+        },
+        {
+            "id":"2",
+            "logo": "require("../assets/image/logo1.png")",
+            "title": "Software Engineer (Android), Libraries",
+            "postInfo":[
+              {"icon": "require("../assets/image/logo1.png")","text": "segment"},
+              {"icon": "require("../assets/image/logo1.png")","text": "time"},
+              {"icon": "require("../assets/image/logo1.png")","text": "salary"}
+            ],
+            "button":["fulltime","Private","urgent"]
+        },
+        {
+            "id":"3",
+            "logo": "require("../assets/image/logo1.png")",
+            "title": "Software Engineer (Android), Libraries",
+            "postInfo":[
+              {"icon": "require("../assets/image/logo1.png")","text": "segment"},
+              {"icon": "require("../assets/image/logo1.png")","text": "time"},
+              {"icon": "require("../assets/image/logo1.png")","text": "salary"}
+            ],
+            "button":["fulltime","Private","urgent"]
+        },
+        {
+            "id":"4",
+            "logo": "require("../assets/image/logo1.png")",
+            "title": "Software Engineer (Android), Libraries",
+            "postInfo":[
+              {"icon": "require("../assets/image/logo1.png")","text": "segment"},
+              {"icon": "require("../assets/image/logo1.png")","text": "time"},
+              {"icon": "require("../assets/image/logo1.png")","text": "salary"}
+            ],
+            "button":["fulltime","Private","urgent"]
+        }   
+    ]
+}
